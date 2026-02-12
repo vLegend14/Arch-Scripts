@@ -17,7 +17,7 @@ FASE 3: CONFIGURACIÓN BIOS
 ├─ Habilitar Secure Boot
 └─ Guardar y reiniciar
 ```
-
+```
 # Darle permisos de ejecución
 chmod +x install-aur-helper.sh
 chmod +x setup-snapshots.sh
@@ -29,3 +29,4 @@ chmod +x post-install-gaming.sh
 sudo ./setup-snapshots.sh
 sudo ./setup-dualboot.sh
 sudo ./post-install-gaming.sh
+```
